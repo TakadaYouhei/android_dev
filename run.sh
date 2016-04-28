@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 PATH_VOL_SRCHOST=/home/dockervolume
 PATH_VOL_CONTAINER=/home/dockervolume
